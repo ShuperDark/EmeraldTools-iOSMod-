@@ -1,0 +1,9 @@
+Package: com.darkshuper.emeraldtools
+Name: EmeraldTools
+Depends: mobilesubstrate
+Version: 0.0.1-beta
+Architecture: iphoneos-arm
+Description: This mod adds emerald tools
+Maintainer: DarkShuper
+Author: DarkShuper
+Section: Tweaks
